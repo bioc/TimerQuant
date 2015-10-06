@@ -1,0 +1,4 @@
+TimerQuant/data
+TimerQuant/inst/extdata/chooseFP2App
+TimerQuant/inst/extdata
+TimerQuant/inst/extdata/timerModellingApp
