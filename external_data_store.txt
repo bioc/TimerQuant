@@ -1,4 +1,4 @@
-TimerQuant/data
-TimerQuant/inst/extdata/chooseFP2App
-TimerQuant/inst/extdata
-TimerQuant/inst/extdata/timerModellingApp
+data
+inst/extdata/chooseFP2App
+inst/extdata
+inst/extdata/timerModellingApp
